@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+vectorbt
+python-decouple
+python-binance
+pandas-ta
