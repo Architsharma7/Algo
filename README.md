@@ -4,7 +4,8 @@
 
 - Backtested strategies and visualised historical performance with VectorBT
 
-- Automatically place trades on the Binance testnet
+- Built a bot that automatically place trades on the Binance testnet
 
 - Analysed trade performances
 
+- Optimised a portfolio of risky stocks

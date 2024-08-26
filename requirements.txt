@@ -5,3 +5,5 @@ vectorbt
 python-decouple
 python-binance
 pandas-ta
+yfinance
+scipy
